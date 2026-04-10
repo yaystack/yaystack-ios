@@ -3,7 +3,7 @@
 import PackageDescription
 
 let version = "1.0.0"
-let checksum = "a27ae0cc3b85e227d46c191650604cbd26f65048302493dacf61b8d8e66bfda3"
+let checksum = "bfe5456a782ff01c01f1189608cdf65b26a704270e77c3f2cffb4a06421d4a2d"
 
 let package = Package(
     name: "YaystackSDK",
