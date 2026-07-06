@@ -2,8 +2,8 @@
 
 import PackageDescription
 
-let version = "1.0.1"
-let checksum = "832513463121eeed17885e65286892a8086aef93b51dc40b910dd4e48a893aa8"
+let version = "1.0.2"
+let checksum = "1a9ff8c6d5c64e43cc2a13b82503f6e4fda35555b8b76ffd6cb344b696ecaa3d"
 
 let package = Package(
     name: "YaystackSDK",
